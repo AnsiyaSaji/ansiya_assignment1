@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"content="width=device-width, initial-scale=1.0">
+<title>My Resume</title>
+</head>
+<body>
+
+<section><h1>Ansiya Saji<br>
+Master of Computer Application<br>
+Phone : 7306363598<br>
+Email :ansiyaanna@gmail.com</h1></section>
+
+<section><h1>Objective :</h1>
+<p>To obtain employment with a company to learn and implement new skills and knowledge.</p></section>
+
+<section><h1>Education :</h1>
+Jyoti Nivas College Autonomous,Bangalore<br>
+2023 – 2025<br>
+Master of Computer Application<br>
+Pursuing<br></section>
+
+<section>Christ College Mysuru<br>
+2019 – 2022<br>
+Bachelors of Computer Application<br>
+Percentage :71.40<br></section>
+
+<section>
+Government Higher Secondary School Perikkalloor,Wayanad<br>
+2017 – 2019<br>
+State board<br>
+Percentage :68.83<br></section>
+
+<section>Government Higher Secondary School Perikkalloor,Wayanad<br>
+2016-2017<br>
+SSLC <br>
+Percentage :85</section>
+
+<section><h1>Skills : </h1>
+C, Java, Microsoft Word, Microsoft PowerPoint</section>
+
+<section><h1>Hobbies : </h1>
+Sports, Reading Books, Listening music, Cooking, watching Movies </section>
+
+<section><h1>Projects:</h1>
+Hostel Management System Using PHP
+</section>
+
+<section><h1>Languages: </h1>
+English <br>
+Malayalam <br>
+Tamil <br>
+</section>
+
+<section><h1>Certification :</h1>
+Introduction to cyber security<br>
+Introduction to data analytics<br></section>
+
+<section><h1>Declaration :</h1>
+I hereby declare that above furnished information are true to the best of my knowledge.</section>
+</body>
+</html>
